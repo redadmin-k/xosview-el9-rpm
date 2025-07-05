@@ -48,3 +48,7 @@ The resulting RPMs will be located in:
 
 GPLv2+
 
+## Maintainer
+
+Fedora EPEL Maintainer (FAS: redadmin)
+
