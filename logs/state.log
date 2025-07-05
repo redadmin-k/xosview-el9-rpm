@@ -1,0 +1,26 @@
+2025-07-05 20:02:37,920 - Mock Version: 6.3
+2025-07-05 20:02:37,928 - Start(bootstrap): chroot init
+2025-07-05 20:02:37,945 - Start(bootstrap): cleaning package manager metadata
+2025-07-05 20:02:37,945 - Finish(bootstrap): cleaning package manager metadata
+2025-07-05 20:02:43,164 - Start(bootstrap): installing dnf tooling
+2025-07-05 20:03:11,791 - Finish(bootstrap): installing dnf tooling
+2025-07-05 20:03:11,816 - Start(bootstrap): creating root cache
+2025-07-05 20:03:16,902 - Finish(bootstrap): creating root cache
+2025-07-05 20:03:16,903 - Finish(bootstrap): chroot init
+2025-07-05 20:03:16,907 - Start: chroot init
+2025-07-05 20:03:16,923 - Start: cleaning package manager metadata
+2025-07-05 20:03:16,923 - Finish: cleaning package manager metadata
+2025-07-05 20:03:17,205 - Start: installing minimal buildroot with dnf
+2025-07-05 20:04:08,324 - Finish: installing minimal buildroot with dnf
+2025-07-05 20:04:08,474 - Start: creating root cache
+2025-07-05 20:04:14,640 - Finish: creating root cache
+2025-07-05 20:04:14,641 - Finish: chroot init
+2025-07-05 20:04:14,810 - Start: build phase for xosview-1.23-2.el9.src.rpm
+2025-07-05 20:04:14,811 - Start: build setup for xosview-1.23-2.el9.src.rpm
+2025-07-05 20:04:46,080 - Finish: build setup for xosview-1.23-2.el9.src.rpm
+2025-07-05 20:04:46,080 - Start: rpmbuild xosview-1.23-2.el9.src.rpm
+2025-07-05 20:04:46,083 - Start: Outputting list of installed packages
+2025-07-05 20:04:46,290 - Finish: Outputting list of installed packages
+2025-07-05 20:05:02,464 - Finish: rpmbuild xosview-1.23-2.el9.src.rpm
+2025-07-05 20:05:02,468 - Finish: build phase for xosview-1.23-2.el9.src.rpm
+2025-07-05 20:05:02,473 - Finish: run
